@@ -2,7 +2,8 @@ baseURL = "https://daniel.bz/"
 languageCode = "en-us"
 title = "Daniel Berggren"
 
-theme = "hugo-coder"
+# theme = "hugo-coder"
+theme = "agico-hugo"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
