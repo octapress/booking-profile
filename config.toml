@@ -1,4 +1,4 @@
-baseURL = "https://daniel.bz/"
+baseURL = "https://daniel.ooo/"
 languageCode = "en-us"
 title = "Daniel Berggren"
 
@@ -21,12 +21,13 @@ disqusShortname = "yourdiscussshortname"
     info = "Web Development Ninja"
     description = "Daniel Berggren @ Octapress"
     keywords = "blog,developer,personal"
-    avatarurl = "images/daniel-avatar-circle.png"
+#    avatarurl = "images/daniel-avatar-circle.png"
+    avatarurl = "images/meerkat-circle-01-500px.png"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = ""
 
     hidecredits = false
     hidecopyright = false
@@ -41,24 +42,24 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github fa-2x"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/octapress/"
 [[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab fa-2x"
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
     weight = 2
-    url = "https://gitlab.com/johndoe/"
+    url = "https://www.linkedin.com/in/danielsan81/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/danne_ooo"
 
 # Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/posts/"
-[[menu.main]]
-    name = "About"
-    weight = 2
-    url = "/about/"
+#[[menu.main]]
+#    name = "Blog"
+#    weight = 1
+#    url  = "/posts/"
+#[[menu.main]]
+#    name = "About"
+#    weight = 2
+#    url = "/about/"
