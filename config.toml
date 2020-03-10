@@ -29,7 +29,7 @@ disqusShortname = "yourdiscussshortname"
 
     footercontent = ""
 
-    hidecredits = false
+    hidecredits = true
     hidecopyright = true
 
     rtl = false
